@@ -1,21 +1,12 @@
-/*
-
-
-a+b = c
+#include "dodawanie.h"
 
 
 
-Funkcja dodawania:
+int dodawanie(int a, int b)
+{
+   int wynik = 0;
 
+   wynik = a + b
 
-
-
-int dodawanie(liczba1,liczba2);
-
-
-
-
-
-
-
-*/
+   return wynik;
+}
