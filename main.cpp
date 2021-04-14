@@ -20,7 +20,7 @@ int main()
     cout << "Wybierz opcje dzialania: " << endl;
     cin >> wybor;
 
-
+    cout << dodawanie(34,56) << endl;
 
     return 0;
 }

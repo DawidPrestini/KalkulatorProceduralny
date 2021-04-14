@@ -2,7 +2,7 @@
 
 
 
-int dodawanie(int a, int b)
+int odejmowanie(int a, int b)
 {
    int wynik = 0;
 
